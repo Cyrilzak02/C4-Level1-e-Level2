@@ -13,14 +13,16 @@ contributors. See <https://arc42.org>.
 # Introduction and Goals
 
 ## Requirements Overview
+A Netflix é uma plataforma global de streaming que oferece uma vasta biblioteca de filmes, séries de TV, documentários e produções originais. O objetivo principal da Netflix é fornecer uma experiência de entretenimento sob demanda, permitindo que os usuários acessem conteúdos de alta qualidade em qualquer lugar, a qualquer momento e em qualquer dispositivo conectado à internet.
 
 ## Quality Goals
+A Netflix começou como um serviço de aluguel de DVDs, mas evoluiu para se tornar um dos principais serviços de streaming no mundo. Ela opera em um ambiente altamente competitivo, com concorrentes como Amazon Prime Video, Disney+, HBO Max, entre outros. A Netflix se destaca por sua vasta oferta de conteúdo e produção original, além de uma experiência de usuário intuitiva.
 
 ## Stakeholders
 
 | Role/Name   | Contact        | Expectations       |
 |-------------|----------------|--------------------|
-| *\<Role-1>* | *\<Contact-1>* | *\<Expectation-1>* |
+| *Usuários finais* | *\<Contact-1>* | *\<Expectation-1>* |
 | *\<Role-2>* | *\<Contact-2>* | *\<Expectation-2>* |
 
 # Architecture Constraints
