@@ -50,6 +50,11 @@ Segurança e privacidade: A proteção dos dados dos usuários e a prevenção c
 
 # System Scope and Context
 
+Descrição do Sistema: A Netflix é um serviço de streaming que permite aos usuários acessar uma vasta biblioteca de conteúdo audiovisual, incluindo filmes, séries de TV, documentários e produções originais. O sistema fornece recomendações personalizadas, suporta reprodução em múltiplos dispositivos e permite a criação de perfis de usuário.
+
+Limites do Sistema: O escopo inclui todas as funcionalidades relacionadas ao streaming de conteúdo, personalização de recomendações, gerenciamento de contas de usuários, e pagamento de assinaturas. Não está dentro do escopo do sistema a produção de conteúdo, que é gerenciada por outras divisões da empresa.
+
+
 ## Business Context
 
 **\<Diagram or Table>**
