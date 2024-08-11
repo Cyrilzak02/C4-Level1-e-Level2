@@ -20,12 +20,33 @@ A Netflix começou como um serviço de aluguel de DVDs, mas evoluiu para se torn
 
 ## Stakeholders
 
-| Role/Name   | Contact        | Expectations       |
-|-------------|----------------|--------------------|
-| *Usuários finais* | *\<Contact-1>* | *\<Expectation-1>* |
-| *\<Role-2>* | *\<Contact-2>* | *\<Expectation-2>* |
+| Role/Name                   | Contact | Expectations                                                      |
+|-----------------------------|---------|-------------------------------------------------------------------|
+| **Usuários finais**          | N/A     | Acessar conteúdos de alta qualidade em qualquer lugar              |
+| **Produtores de conteúdo**   | N/A     | Distribuir e monetizar conteúdo na plataforma global               |
+| **Funcionários e engenheiros** | N/A   | Ferramentas eficazes e infraestrutura robusta para desenvolvimento e operação |
+| **Investidores**             | N/A     | Crescimento constante de receita e valorização das ações           |
+| **Reguladores**              | N/A     | Conformidade com as regulamentações locais e proteção de dados     |
 
 # Architecture Constraints
+**.Infraestrutura**: A Netflix depende de uma infraestrutura global distribuída para entregar conteúdo a milhões de usuários simultaneamente. Isso inclui a necessidade de servidores robustos, uma rede de distribuição de conteúdo (CDN) eficiente e uma infraestrutura de cloud computing confiável.
+
+**.Regulamentação regional**: A Netflix deve cumprir as regulamentações de cada país em que opera, o que pode incluir censura de conteúdo, regras de privacidade de dados, e políticas de direitos autorais.
+
+**.Compatibilidade de dispositivos**: A plataforma precisa ser compatível com uma ampla gama de dispositivos, incluindo smart TVs, consoles de jogos, smartphones, tablets e PCs.
+
+**.Escalabilidade**: A arquitetura deve suportar o crescimento rápido da base de usuários, sem comprometer a performance.
+
+**.Segurança e privacidade**: A proteção dos dados dos usuários e a prevenção contra pirataria são críticas.
+
+**.Infraestrutura**: A Netflix depende de uma infraestrutura global distribuída para entregar conteúdo a milhões de usuários simultaneamente. Isso inclui a necessidade de servidores robustos, uma rede de distribuição de conteúdo (CDN) eficiente e uma infraestrutura de cloud computing confiável.
+
+**.Regulamentação regional**: A Netflix deve cumprir as regulamentações de cada país em que opera, o que pode incluir censura de conteúdo, regras de privacidade de dados, e políticas de direitos autorais.
+
+**.Compatibilidade de dispositivos**: A plataforma precisa ser compatível com uma ampla gama de dispositivos, incluindo smart TVs, consoles de jogos, smartphones, tablets e PCs.
+
+**.Escalabilidade**: A arquitetura deve suportar o crescimento rápido da base de usuários, sem comprometer a performance.
+Segurança e privacidade: A proteção dos dados dos usuários e a prevenção contra pirataria são críticas.
 
 # System Scope and Context
 
