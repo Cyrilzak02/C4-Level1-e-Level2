@@ -1,0 +1,1 @@
+https://arquitetur.azurewebsites.net/api/HttpTrigger1?code=s4uiAS7ammxZc9zizmU4HIH3wONCgX5WTXB8b2Q5z_YeAzFuExv5pg%3D%3D
